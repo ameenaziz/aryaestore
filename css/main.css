@@ -165,6 +165,13 @@ html {
   }
 }
 
+.keyline {
+    background: #fff none repeat scroll 0 0;
+    display: block;
+    height: 2px;
+    margin: 20px auto 20px;
+    width: 40%;
+}
 
 
 
